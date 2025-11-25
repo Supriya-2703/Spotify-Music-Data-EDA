@@ -5,7 +5,7 @@ It also includes an interactive Streamlit dashboard for exploring patterns acros
 
 ![Streamlit UI](https://img.shields.io/badge/Made%20With-Streamlit-red?logo=streamlit)
  
-![spotify_eda_banner](images/spotify_eda_banner.png)
+<img width="1536" height="1024" alt="spotify_eda_banner" src="https://github.com/user-attachments/assets/46bb2796-3955-416e-9b88-154dcae549df" />
 
 ## 📌 Features of the Project
 ## 🔍 1. Data Cleaning & Preprocessing
